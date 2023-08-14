@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['947', 'Niroshan-King-MD', true],
+  ['94714184446', 'Niroshan-King-MD', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94740804536','94740804536'] 
+global.mods = ['94714184446','94714184446'] 
 global.prems = ['94740804536', '94740804536', '94740804536']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '💝 Niroshan-King-MD 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '💝 Niroshan-King-MD 💝 Created By 💝 Niroshan OFC²⁰²³ 💝' 
+global.author = '💝 Niroshan OFC²⁰²³ 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
